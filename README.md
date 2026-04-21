@@ -1,7 +1,7 @@
 ## DungeonCrawler
 A simplified Dungeon Crawler built as a C# console application. Players explore a predefined dungeon, fight enemies, and experience a turn-based roguelike inspired game using core object-oriented principles. 
 
-This project was first developed by my classmate @ZgStn when she and I were learning Object Oriented Programming. We then collaborated on it as part of a course in 
+This project was first developed by my classmate [ZgStn] when she and I were learning Object Oriented Programming. We then collaborated on it as part of a course in 
 Database Development & Administration. The application now uses MongoDB.Driver to enable the user to save a game and return to it at a later time. 
 
 ## Prerequisites
